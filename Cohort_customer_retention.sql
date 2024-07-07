@@ -1,4 +1,4 @@
--- Out come: Cohort Customer Retention 
+-- Out come: Cohort Customer Retention [Cohort Retention Table: https://drive.google.com/file/d/1izQ4RDvRNYI-Z6gJMRlN9aJwFaOWJwsf/view?usp=sharing]
 -- Shows the number of new customers each month and the return purchase rate of these customer groups for each subsequent month
 -- Data input: Transaction data (2023 - NOW)
 --------------
